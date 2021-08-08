@@ -1,1 +1,5 @@
-{}
+{
+  "retry": "Retry",
+  "something_went_wrong": "Something Went Wrong At Our End",
+  "todays_weather_update": "Today's Weather update"
+}
